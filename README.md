@@ -1,0 +1,2 @@
+# ASPdotNETCoreVBTest
+ASPdotNETCoreをVBでやってみるテスト
